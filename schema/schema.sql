@@ -167,16 +167,7 @@ create table county(
 
 
 	
--- Query 1: How large are the tables within a given dataset?	
 
--- Query 2: How many columns of data are present?
-	
--- Query 3: Are any columns partitioned(a top-down cell grouping mechanism that results in a small number of large groups) or 
-	--clustered( a bottom-up cell grouping mechanism that generates a large number of small groups) columns?	
-	
-	
---Querying metadata across datasets	
-	
 	
 	
 	
