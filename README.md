@@ -1,7 +1,6 @@
 # Final-Project
 The Final Project for GW University's Data Analysis Bootcamp 2021
 
-
 ## Technologies Used
 ## Data Cleaning and Analysis
 Pandas will be used to clean the data and perform an exploratory analysis. Further analysis will be completed using Python.
