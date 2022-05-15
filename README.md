@@ -5,9 +5,13 @@ The Final Project for GW University's Data Analysis Bootcamp 2021 about Covid 19
 ## Resources to be used:
 
 - Data Source:
+
 https://data.cdc.gov/Vaccinations/Vaccines-gov-COVID-19-vaccinating-provider-locatio/5jp2-pgaw
+
 https://data.cdc.gov/Vaccinations/Fully-Vaccinated-Adults/jm79-dz78
+
 https://data.cdc.gov/Vaccinations/COVID-19-Vaccinations-in-the-United-States-County/8xkx-amqh
+
 https://data.cdc.gov/Policy-Surveillance/U-S-State-and-Territorial-Public-Mask-Mandates-Fro/42jj-z7fa
 
 - Software & Libraries: Python, SQL, Flask , Tableau, ML & Google tools.
