@@ -6,6 +6,14 @@
 
 - The objective of this project is to analyzed and predict the impact on the outcomes of the pendemic in following years. The datasets which we will be using for statistical calculations and other technology libraries will displays the trends and predict the outcome accordingly. 
 
+- Public mask mandates are correlated with COVID vaccination hesitancy.
+
+- Public mask mandates are correlated with CVAC levels.
+
+- Public mask mandates are correlated with SVI levels.
+
+- SVI levels are correlated with CVAC levels.
+
 - Data Sources:
 
 https://data.cdc.gov/Vaccinations/Vaccines-gov-COVID-19-vaccinating-provider-locatio/5jp2-pgaw
