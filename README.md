@@ -1,7 +1,10 @@
 # Final-Project
 
-# Topic:
-Covid 19 Vaccine Hesitancy level Analysis
+## Topic of this Project:
+
+- Covid 19 Vaccine Hesitancy level Analysis. 
+
+- The objective of this project is to analyzed and predict the impact on the outcomes of the pendemic in following years. The datasets which we will be using for statistical calculations and other technology libraries will displays the trends and predict the outcome accordingly. 
 
 - Data Sources:
 
