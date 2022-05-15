@@ -1,10 +1,9 @@
 # Final-Project
 
-The Final Project for GW University's Data Analysis Bootcamp 2021 about Covid 19 Vaccine Hesitancy Analysis using Machine Learning
+# Topic:
+Covid 19 Vaccine Hesitancy level Analysis
 
-## Resources to be used:
-
-- Data Source:
+- Data Sources:
 
 https://data.cdc.gov/Vaccinations/Vaccines-gov-COVID-19-vaccinating-provider-locatio/5jp2-pgaw
 
@@ -14,7 +13,7 @@ https://data.cdc.gov/Vaccinations/COVID-19-Vaccinations-in-the-United-States-Cou
 
 https://data.cdc.gov/Policy-Surveillance/U-S-State-and-Territorial-Public-Mask-Mandates-Fro/42jj-z7fa
 
-- Software & Libraries: Python, SQL, Flask , Tableau, ML & Google tools.
+- Software & Libraries: Python, PostgreSQL, Flask , Tableau, ML .
 
 ## Project Developmental Planning:
 
@@ -22,7 +21,13 @@ https://data.cdc.gov/Policy-Surveillance/U-S-State-and-Territorial-Public-Mask-M
 
 - **Database Storage**: PostgreSQL is the database we intend to use, and we will integrate pgAdmin to display the data.
 
-- **Machine Learning**: SciKitLearn is the ML library we'll be using to create a classifier. A prediction analysis will be also done using Neural Network Model. 
+- **Machine Learning**: ## Machine Learning
+SciKitLearn is the ML library we'll be using to create a classifier. Our training and testing setup is uses a 75-25 split.  Machine learning models used include:
+     - Logistic Regression
+     - SVM
+     - Decision Tree
+     - Random Forest
+     - Gradient Boosting
 
 - **Dashboard**:  Flask template will be used with a final reporting using an  integrate TABLEAU for a fully functioning and interactive dashboard. Finally, it will be hosted on Google Slide.
 
