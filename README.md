@@ -1,10 +1,9 @@
 # Final-Project
 
 ## Topic of this Project:
+Covid 19 Vaccine Hesitancy level Analysis. 
 
-- Covid 19 Vaccine Hesitancy level Analysis. 
-
-- The objective of this project is to analyzed and predict the impact on the outcomes of the pendemic in following years. The datasets which we will be using for statistical calculations and other technology libraries will displays the trends and predict the outcome accordingly. 
+- The purpose of this project is to analyze and predict the level of Vaccine Hesitancy in USA starting from 2020 to present. The datasets which we will be using for statistical calculations and other technology libraries will displays the trends and predict the outcome accordingly. 
 
 - Public mask mandates are correlated with COVID vaccination hesitancy.
 
