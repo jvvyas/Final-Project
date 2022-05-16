@@ -3,7 +3,7 @@
 ## Topic of this Project:
 Covid 19 Vaccine Hesitancy level Analysis. 
 
-- The purpose of this project is to analyze and predict the level of Vaccine Hesitancy in USA starting from 2020 to present. The datasets which we will be using for statistical calculations and other technology libraries will displays the trends and predict the outcome accordingly. 
+- The purpose of this project is to analyze and predict the level of Vaccine Hesitancy in USA  since late 2021. The datasets which we will be using for statistical calculations and other technology libraries will displays the trends and predict the outcome accordingly. 
 
 - Public mask mandates are correlated with COVID vaccination hesitancy.
 
