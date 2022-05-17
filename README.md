@@ -8,12 +8,11 @@ Covid 19 Vaccine Hesitancy level Analysis.
 
 - Public mask mandates are correlated with COVID vaccination hesitancy.
 
-- Public mask mandates are correlated with CVAC levels.
+- Vaccination hesitancy is correlated with CVAC levels.
 
-- Public mask mandates are correlated with SVI levels.
+- Vaccination hesitancy is correlated with SVI levels.
 
-- SVI levels are correlated with CVAC levels.
-
+ 
 # Data Sources:
 
 https://data.cdc.gov/Vaccinations/Vaccines-gov-COVID-19-vaccinating-provider-locatio/5jp2-pgaw
