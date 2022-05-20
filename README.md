@@ -1,5 +1,7 @@
 # Final-Project
 
+[Link to Google Slides](https://docs.google.com/presentation/d/1D6xlwcnExiZ4DOyUKpyyipajtg6ABQZLEv09FY3mhTE/edit?usp=sharing)
+
 ## Topic: 
 Covid 19 Vaccine Hesitancy level Analysis. 
 
