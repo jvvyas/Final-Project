@@ -25,8 +25,8 @@ https://data.cdc.gov/Vaccinations/COVID-19-Vaccinations-in-the-United-States-Cou
 https://data.cdc.gov/Policy-Surveillance/U-S-State-and-Territorial-Public-Mask-Mandates-Fro/42jj-z7fa
 
 ### Software & Libraries:
-| --- | --- |
 | Data Retrieval, Cleaning and Analysis:  | Python, API |
+| --- | --- |
 | Database Management/Storage:  | PostgreSQL |
 | Predictive Analysis:  | ML |
 | Data Visualization:  | Flask, Tableau |
