@@ -1,19 +1,20 @@
-# Final-Project
+# Final-Project Topic: Covid 19 Vaccine Hesitancy level Analysis
 
-## Topic of this Project:
-Covid 19 Vaccine Hesitancy level Analysis. 
+[Click here for Google Slide presentation.](https://docs.google.com/presentation/d/1D6xlwcnExiZ4DOyUKpyyipajtg6ABQZLEv09FY3mhTE/edit?usp=sharing)
 
-- The purpose of this project is to analyze and predict the level of Vaccine Hesitancy in USA  since late 2021. The datasets which we will be using for statistical calculations and other technology libraries will displays the trends and predict the outcome accordingly. 
+## Analysis Overview:
+- The purpose of this project is to analyze and predict the level of Vaccine Hesitancy in USA  since late 2021. The datasets which we will be using for statistical calculations and other technology libraries will displays the trends and predict the outcome accordingly.
 
-- Public mask mandates are correlated with COVID vaccination hesitancy.
+...Questions/Hypotheses Addressed:
 
-- Public mask mandates are correlated with CVAC levels.
+> Vaccination hesitancy is correlated with `public mask mandates.`
 
-- Public mask mandates are correlated with SVI levels.
+> Vaccination hesitancy is correlated with `CVAC levels.`
 
-- SVI levels are correlated with CVAC levels.
+> Vaccination hesitancy is correlated with `SVI levels.`
 
-- Data Sources:
+ 
+## Data Sources:
 
 https://data.cdc.gov/Vaccinations/Vaccines-gov-COVID-19-vaccinating-provider-locatio/5jp2-pgaw
 
@@ -23,7 +24,13 @@ https://data.cdc.gov/Vaccinations/COVID-19-Vaccinations-in-the-United-States-Cou
 
 https://data.cdc.gov/Policy-Surveillance/U-S-State-and-Territorial-Public-Mask-Mandates-Fro/42jj-z7fa
 
-- Software & Libraries: Python, PostgreSQL, Flask , Tableau, ML .
+| **Software & Libraries**|
+| --- |
+| - Python     - PostgreSQL |
+| - Flask      - Tableau |
+| - ML         - API |
+
+***
 
 ## Project Developmental Planning:
 
@@ -44,11 +51,11 @@ SciKitLearn is the ML library we'll be using to create a classifier. Our trainin
 ## Initial Objective:
 
 - Our team members will present a provisional machine learning model that stands in for the final machine learning model and accomplishes the following:
-1. Takes in raw data in from the provisional database
-2. Outputs label(s) for input data
-3. Mange repositories rendered by  team members 
+...1. Takes in raw data in from the provisional database
+...2. Outputs label(s) for input data
+...3. Mange repositories rendered by  team members 
 
 - Our team members handling Data Management will present a provisional database that stands in for the final database and accomplishes the following:
-1. Images of Codes 
-2. Sample data that mimics the expected final database structure/schema
-3. Provisional draft of machine learning module with code is shown connected to the provisional database 
+...1. Images of Codes 
+...2. Sample data that mimics the expected final database structure/schema
+...3. Provisional draft of machine learning module with code is shown connected to the provisional database 
