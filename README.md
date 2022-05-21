@@ -5,13 +5,13 @@
 ## Analysis Overview:
 The purpose of this project is to analyze and predict the level of Vaccine Hesitancy in USA  since late 2021. The datasets which we will be using for statistical calculations and other technology libraries will displays the trends and predict the outcome accordingly.
 
-... #### Questions/Hypotheses Addressed:
+#### Questions/Hypotheses Addressed:
 
-> `Public mask mandates` are correlated wtih vaccination hesitancy. 
+- `Public mask mandates` are correlated wtih vaccination hesitancy. 
 
-> `CVAC levels` are correlated with vaccination hesitancy.
+- `CVAC levels` are correlated with vaccination hesitancy.
 
-> `SVI levels`are correlated with vaccination hesitancy.
+- `SVI levels`are correlated with vaccination hesitancy.
 
  
 ## Data Sources:
@@ -26,9 +26,10 @@ https://data.cdc.gov/Policy-Surveillance/U-S-State-and-Territorial-Public-Mask-M
 
 |       **Software & Libraries**       |
 | --- |
-| - Python            - PostgreSQL |
-| - Flask             - Tableau |
-| - ML                - API |
+| Data Retrieval: | Python, API |
+| Data Management: | PostgreSQL |
+| Predictive Analysis: | ML |
+| Presenting the Analysis: | Flask, Tableau |
 
 ***
 
@@ -53,12 +54,12 @@ SciKitLearn is the ML library we'll be using to create a classifier. Our trainin
 
 ## Initial Objective:
 
-- Our team members will present a provisional machine learning model that stands in for the final machine learning model and accomplishes the following:
-...1. Takes in raw data from the provisional database
-...2. Outputs label(s) for input data
-...3. Manage repositories rendered by team members 
+Our team members will present a provisional machine learning model that stands in for the final machine learning model and accomplishes the following:
+1. Takes in raw data from the provisional database
+2. Outputs label(s) for input data
+3. Manage repositories rendered by team members 
 
-- Our team members handling Data Management will present a provisional database that stands in for the final database and accomplishes the following:
-...1. Images of code 
-...2. Sample data that mimics the expected final database structure/schema
-...3. Provisional draft of machine learning module with code showing connection to the provisional database 
+Our team members handling Data Management will present a provisional database that stands in for the final database and accomplishes the following:
+1. Images of code 
+2. Sample data that mimics the expected final database structure/schema
+3. Provisional draft of machine learning module with code showing connection to the provisional database 
