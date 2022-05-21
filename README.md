@@ -1,6 +1,6 @@
 # Final-Project Topic: Covid 19 Vaccine Hesitancy level Analysis
 
-[Click here for Google Slide presentation.](https://docs.google.com/presentation/d/1D6xlwcnExiZ4DOyUKpyyipajtg6ABQZLEv09FY3mhTE/edit?usp=sharing)
+[Click here for Google Slides presentation.](https://docs.google.com/presentation/d/1D6xlwcnExiZ4DOyUKpyyipajtg6ABQZLEv09FY3mhTE/edit?usp=sharing)
 
 ## Analysis Overview:
 The purpose of this project is to analyze and predict the level of Vaccine Hesitancy in USA  since late 2021. The datasets which we will be using for statistical calculations and other technology libraries will displays the trends and predict the outcome accordingly.
@@ -11,7 +11,7 @@ The purpose of this project is to analyze and predict the level of Vaccine Hesit
 
 - `CVAC levels` are correlated with vaccination hesitancy.
 
-- `SVI levels`are correlated with vaccination hesitancy.
+- `SVI levels` are correlated with vaccination hesitancy.
 
  
 ## Data Sources:
@@ -24,17 +24,16 @@ https://data.cdc.gov/Vaccinations/COVID-19-Vaccinations-in-the-United-States-Cou
 
 https://data.cdc.gov/Policy-Surveillance/U-S-State-and-Territorial-Public-Mask-Mandates-Fro/42jj-z7fa
 
-|       **Software & Libraries**       |
-| --- |
-| Data Retrieval, Cleaning and Analysis:  Python, API |
-| Database Management/Storage:  PostgreSQL |
-| Predictive Analysis:  ML |
-| Data Visualization:  Flask, Tableau |
+### Software & Libraries:
+| Data Retrieval, Cleaning and Analysis:  | Python, API |
+| Database Management/Storage:  | PostgreSQL |
+| Predictive Analysis:  | ML |
+| Data Visualization:  | Flask, Tableau |
 
 ***
 
 ## Project Developmental Planning:
-Project planning can be split into four cetegories:
+### Project planning can be split into four cetegories:
 
 - **Data Cleaning and Analysis**: Python technology with Pandas library will be used to clean the data and perform an exploratory analysis. Further Trending analysis will be completed using NumPy.
 
@@ -54,12 +53,12 @@ SciKitLearn is the ML library we'll be using to create a classifier. Our trainin
 
 ## Initial Objective:
 
-Our team members will present a provisional machine learning model that stands in for the final machine learning model and accomplishes the following:
+### Our team members will present a provisional machine learning model that stands in for the final machine learning model and accomplishes the following:
 1. Takes in raw data from the provisional database
 2. Outputs label(s) for input data
 3. Manage repositories rendered by team members 
 
-Our team members handling Data Management will present a provisional database that stands in for the final database and accomplishes the following:
+### Our team members handling Data Management will present a provisional database that stands in for the final database and accomplishes the following:
 1. Images of code 
 2. Sample data that mimics the expected final database structure/schema
 3. Provisional draft of machine learning module with code showing connection to the provisional database 
