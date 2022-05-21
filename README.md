@@ -26,10 +26,10 @@ https://data.cdc.gov/Policy-Surveillance/U-S-State-and-Territorial-Public-Mask-M
 
 |       **Software & Libraries**       |
 | --- |
-| Data Retrieval: | Python, API |
-| Data Management: | PostgreSQL |
-| Predictive Analysis: | ML |
-| Presenting the Analysis: | Flask, Tableau |
+| Data Retrieval, Cleaning and Analysis:  Python, API |
+| Database Management/Storage:  PostgreSQL |
+| Predictive Analysis:  ML |
+| Data Visualization:  Flask, Tableau |
 
 ***
 
