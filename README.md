@@ -40,13 +40,10 @@ https://data.cdc.gov/Policy-Surveillance/U-S-State-and-Territorial-Public-Mask-M
 
 - **Database Storage**: PostgreSQL is the database we intend to use, and we will integrate pgAdmin to display the data.
 
-- **Machine Learning**: Machine Learning
-SciKitLearn is the ML library we'll be using to create a classifier. Our training and testing setup uses a 75-25 split.  Machine learning models used include:
-     - Logistic Regression
-     - SVM
-     - Decision Tree
-     - Random Forest
-     - Gradient Boosting
+- **Machine Learning**: SciKitLearn is the ML library we'll be using to create a classifier. We will split the data into training and testing datasets using a 75-25 split setup.  Afterwards, we will use several classification models to validate our machine learning as listed below.
+     - Decision Tree: This algorithm is able to take in multiple features and predict non-binary, discrete outcomes.
+     - Random Forest: Similar to the Decision Tree model, Random Forest is also able to predict non-binary outcomes taking multiple factors into consideration. However, instead of a single tree, Random Forest divies data into random samples from which several smaller trees are created. Th smaller feature groupings will result in weaker individual trees, but combined will help prevent overfitting wich is common with single, complex decision trees.
+     - Gradient Boosting: This ensemble machine learning method also combines weaker learners into a single, stronger model by sequentially training and evaluating one small decision tree--called a stump--then adding another stump to minimize the evaluated errors, and repeating the process. 
 
 - **Dashboard**:  Flask will be used for the final report and integrated with TABLEAU for a fully functioning and interactive dashboard. Finally, the finished data visualizations will be hosted on Google Slides.
 
