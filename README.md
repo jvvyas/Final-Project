@@ -5,13 +5,13 @@
 ## Analysis Overview:
 The purpose of this project is to analyze and predict the level of Vaccine Hesitancy in USA  since late 2021. The datasets which we will be using for statistical calculations and other technology libraries will displays the trends and predict the outcome accordingly.
 
-#### Questions/Hypotheses Addressed:
+#### Questions Addressed:
 
-- `Public mask mandates` are correlated wtih vaccination hesitancy. 
+- What counties will rank hesitant versus strongly hesitant to vaccination based on local `public mask mandates` and the prevalence of certain `health conditions`? 
 
-- `CVAC levels` are correlated with vaccination hesitancy.
+- What counties will have strong vaccine hesitancy based on `CVAC levels` measuring a county's ability to handle a COVID outbreak?
 
-- `SVI levels` are correlated with vaccination hesitancy.
+- What counties will rank hesitant versus strongly hesitant to vaccination based on its `SVI levels` measuring a county's social vulnerability to disaster?
 
  
 ## Data Sources:
