@@ -7,11 +7,13 @@ The purpose of this project is to analyze and predict the level of Vaccine Hesit
 
 #### Questions Addressed:
 
-- What counties will rank hesitant versus strongly hesitant to vaccination based on local `public mask mandates` and the prevalence of certain `health conditions`? 
+- What counties will rank hesitant versus strongly hesitant to vaccination based on local `public mask mandates,` 'stay-at-home orders', 'gathering bans' and the prevalence of certain `health conditions`? 
 
 - What counties will rank hesitant versus strongly hesitant based on `CVAC levels` measuring a county's ability to handle a COVID outbreak?
 
 - What counties will rank hesitant versus strongly hesitant based on its `SVI levels` measuring a county's social vulnerability to disaster?
+
+- What counties will rank hesitant versus strongly hesitant based on the local COVID transimission level?
 
  
 ## Data Sources:
@@ -23,6 +25,14 @@ https://data.cdc.gov/Vaccinations/Fully-Vaccinated-Adults/jm79-dz78
 https://data.cdc.gov/Vaccinations/COVID-19-Vaccinations-in-the-United-States-County/8xkx-amqh
 
 https://data.cdc.gov/Policy-Surveillance/U-S-State-and-Territorial-Public-Mask-Mandates-Fro/42jj-z7fa
+
+https://data.cdc.gov/Policy-Surveillance/U-S-State-and-Territorial-Stay-At-Home-Orders-Marc/y2iy-8irm
+
+https://data.cdc.gov/Policy-Surveillance/U-S-State-and-Territorial-Gathering-Bans-March-11-/7xvh-y5vh
+
+https://chronicdata.cdc.gov/500-Cities-Places/PLACES-Census-Tract-Data-GIS-Friendly-Format-2021-/yjkw-uj5s
+
+https://data.cdc.gov/Public-Health-Surveillance/United-States-COVID-19-County-Level-of-Community-T/nra9-vzzn
 
 
 | Software & Libraries |   |
