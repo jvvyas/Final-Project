@@ -1,7 +1,6 @@
 # Final-Project Topic: COVID 19 Vaccine Hesitancy Levels Analysis
 
-[Click here for Google Slides presentation.](https://docs.google.com/presentation/d/1D6xlwcnExiZ4DOyUKpyyipajtg6ABQZLEv09FY3mhTE/edit?usp=sharing)
-
+[Click here for Google Slides presentation.](https://docs.google.com/presentation/d/1vSCKqnLascb3ekH-n5H19qIH5vuXY6kk1LuM4tSog_Y/edit?usp=sharing)
 ## Analysis Overview:
 The purpose of this project is to analyze and predict the level of Vaccine Hesitancy in USA in late 2021, a year after the outbreak of the COVID pandemic. The datasets which we will be using for statistical calculations and other technology libraries will help identify and display trends, and predict the outcomes accordingly.
 
