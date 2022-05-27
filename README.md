@@ -2,7 +2,7 @@
 
 [Click here for Google Slides presentation.](https://docs.google.com/presentation/d/1vSCKqnLascb3ekH-n5H19qIH5vuXY6kk1LuM4tSog_Y/edit?usp=sharing)
 
-[Link to Tableau Dashboard](https://public.tableau.com/views/projectViz_16535364389560/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+[Link to Tableau Dashboard](https://public.tableau.com/views/Covid19VaccinehesitancylevelofAnalysis/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 ## Analysis Overview:
 The purpose of this project is to analyze and predict the level of Vaccine Hesitancy in USA in late 2021, a year after the outbreak of the COVID pandemic. The datasets which we will be using for statistical calculations and other technology libraries will help identify and display trends, and predict the outcomes accordingly.
 
