@@ -2,7 +2,7 @@
 
 [Link to Google Slides presentation](https://docs.google.com/presentation/d/1zeKd2r08ka4m4gkkUlagF1VFIzl5wnmK2J5_sTwSmDE/edit?usp=sharing)
 
-[Link to Tableau Dashboard](https://public.tableau.com/views/COVID19VaccineHesitancylevelAnalysis/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+[Link to Tableau Dashboard](https://public.tableau.com/views/Covid19VaccinationHesitancylevelofAnalysis/Covid19VaccinationHesitancylevelofAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link)
 ## Analysis Overview:
 The purpose of this project is to analyze and predict the level of Vaccine Hesitancy in USA in late 2021, a year after the outbreak of the COVID pandemic. The datasets which we will be using for statistical calculations and other technology libraries will help identify and display trends, and predict the outcomes accordingly.
 
@@ -41,7 +41,7 @@ https://data.cdc.gov/Public-Health-Surveillance/United-States-COVID-19-County-Le
 | Data Retrieval, Cleaning, and Analysis:  | Python, API |
 | Database Management/Storage:  | PostgreSQL |
 | Predictive Analysis:  | ML |
-| Data Visualization:  | Flask, Tableau |
+| Data Visualization:  | Tableau |
 
 ***
 
