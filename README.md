@@ -41,7 +41,7 @@ https://data.cdc.gov/Public-Health-Surveillance/United-States-COVID-19-County-Le
 | Data Retrieval, Cleaning, and Analysis:  | Python, API |
 | Database Management/Storage:  | PostgreSQL |
 | Predictive Analysis:  | ML |
-| Data Visualization:  | Flask, Tableau |
+| Data Visualization:  | Tableau |
 
 ***
 
