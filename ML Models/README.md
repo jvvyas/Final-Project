@@ -123,7 +123,7 @@ We splited the training and testing set by 75-25, standardly scaled the training
 ![regression_tree](https://github.com/jvvyas/Final-Project/blob/main/screenshots/regression_tree.png)
 
 
-### Linear Regression Tree
+### Linear Regression
 
 
 ### SVM Regressor
