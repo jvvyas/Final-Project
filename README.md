@@ -1,8 +1,8 @@
 # Final-Project Topic: COVID 19 Vaccine Hesitancy Levels Analysis
 
-[Link to Google Slides presentation](https://docs.google.com/presentation/d/1zeKd2r08ka4m4gkkUlagF1VFIzl5wnmK2J5_sTwSmDE/edit?usp=sharing)
+[Link to Google Slides presentation](https://docs.google.com/presentation/d/1QMLQhXdtwhx3Y2UqlmNIYpZkR67QkC8ZYHKdYIHn1MU/edit#slide=id.p)
 
-[Link to Tableau Dashboard](https://public.tableau.com/views/Covid19VaccinationHesitancylevelofAnalysis/Covid19VaccinationHesitancylevelofAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link)
+[Link to Tableau Dashboard](https://public.tableau.com/views/Covid19VaccinationHesitancylevelofAnalysis/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 ## Analysis Overview:
 The purpose of this project is to analyze and predict the level of Vaccine Hesitancy in USA in late 2021, a year after the outbreak of the COVID pandemic. The datasets which we will be using for statistical calculations and other technology libraries will help identify and display trends, and predict the outcomes accordingly.
 
@@ -52,14 +52,12 @@ https://data.cdc.gov/Public-Health-Surveillance/United-States-COVID-19-County-Le
 
 - **Database Storage**: PostgreSQL is the database we intend to use, and we will integrate pgAdmin to display the data.
 
-- **Machine Learning**: SciKitLearn is the ML library we'll be using to create a classifier. We will split the data into training and testing datasets using a 75-25 split setup.  Afterwards, we will use several classification models to validate our machine learning as listed below.
-     - `Decision Tree`: This algorithm is able to take in multiple features and predict non-binary, discrete outcomes.
-     - `Random Forest`: Similar to the Decision Tree model, Random Forest is also able to predict non-binary outcomes taking multiple factors into consideration. However, instead of a single tree, Random Forest divies data into random samples from which several smaller trees are created. Th smaller feature groupings will result in weaker individual trees, but combined will help prevent overfitting wich is common with single, complex decision trees.
-     - `Gradient Boosting`: This ensemble machine learning method also combines weaker learners into a single, stronger model by sequentially training and evaluating one small decision tree--called a stump--then adding another stump to minimize the evaluated errors, and repeating the process.
-     - `Logistic Regression`: If our analysis identifies targets with binary outcomes, the Logistic Regression model can be used to predict those binary classifiers by assessing multiple features.
-     -  `SVM`: Like Logistic Regression, the Support Vector Machine (SVM) model can be used to predict binary outcomes.  
+- **Machine Learning**: SciKitLearn is the ML library we'll be using to create a regressor. We will split the data into training and testing datasets using a 75-25 split setup.  Afterwards, we will use several regression models to validate our machine learning as listed below.
+     - `Regression Tree`: Regression Tree model is similar to decision tree classifier, it runs like a tree with branches to sub-divide all records in training sets and recursively partition until a simple model can fit them. It is suitable for non-linear regression, when interactions are complicated.
+     - `Linear Regression`: Linear Regression is the supervised Machine Learning model in which the model finds the best fit linear line between the independent and dependent variable.
+     -  `Support Vector Regression (SVR)`:  This model improves the flexibility from the linear regression to give an acceptable areas of errors and find a hyperplane to fit the data. 
 
-- **Dashboard**:  Flask will be used for the final report and integrated with TABLEAU for a fully functioning and interactive dashboard. Finally, the finished data visualizations will be hosted on Google Slides.
+- **Dashboard**:  Tableau will be used for the final report and integrated with TABLEAU for a fully functioning and interactive dashboard. Finally, the finished data visualizations will be hosted on Google Slides.
 
 ***
 
